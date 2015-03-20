@@ -415,4 +415,4 @@ splinefun
 > ?plot
 > tutorials
 Error: object 'tutorials' not found
-> 
+> echo hallo world
